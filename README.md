@@ -52,9 +52,9 @@ Contributions are welcome! If you have any ideas or suggestions, please feel fre
 This project is licensed under the MIT License.
 
 ## 📬 Contact
-For any questions or concerns, please contact us at [your-email@example.com](mailto:your-email@example.com).
+For any questions or concerns, please contact us at [rizki45645@gmail.com](rizki45645@gmail.com).
 
 ## 💖 Thanks Message
 We would like to thank everyone who has contributed to this project. Your support and feedback are greatly appreciated.
 
-This is written by [readme.ai](https://readme-generator-phi.vercel.app/)
+This is written by NichtsElse
